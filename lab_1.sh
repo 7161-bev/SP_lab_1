@@ -9,7 +9,7 @@ while [[ $answer == "y" ]]
 do
 	echo "Nya"
 	ifconfig
-	echo "Do you want see IP info ?"
+	echo "Do you want see IP info again?"
 	echo "(y=yes, any=exit)"
 	read answer
 done
